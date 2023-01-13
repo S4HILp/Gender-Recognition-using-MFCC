@@ -1,1 +1,2 @@
 # Gender-Recognition-using-MFCC
+The objective is to classify genders (Male/Female) using speech signals from audio files. Gender identification based on the voice of a speaker consists of detecting if a speech signal is uttered by a male or a female. Automatically detecting the gender of a speaker has several potential applications. In the context of Automatic Speech Recognition, gender dependent models are more accurate than gender independent ones.
